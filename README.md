@@ -1,13 +1,13 @@
-# Focus-group-control
+# RxAgents
 
-This repo contains code discussed during BIASlab's focus group meeting on Active Inference controllers in ReactiveMP.jl. 
+This repo is an archive of active inference agents for various classical and project-related control systems, among which:
 
-We will generate demonstrations for various classical and project-related control systems, among which:
+- Thermostat regulation
+- Mountain car control
+- Oscillator damping
+- Pendulum stabilization
+- Ship navigation
 
-- Bayesian thermostat
-- Mountain car
-- Single pendulum
-- CartPole
-- Acrobot
+## Maintenance
 
-More to come.
+This repo is a companion to one of BIASlab's focus groups. Please note that maintenance is slower than for BIASlab's software packages.
